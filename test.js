@@ -19,8 +19,10 @@ var myCar4 = new Car(90, "driver 4");
 
 myCar.drive(30,5);
 myCar3.logDriver();
-*/
+CONSTRUCTOR */
 
+
+/* DATE AND TIME
 // var myDate = new Date();
 // console.log(myDate);
 
@@ -49,3 +51,5 @@ if (birthday.getTime() == birthday2.getTime()) {
     console.log("birthdays are not equal");
 
 }
+
+DATE AND TIME */
